@@ -56,7 +56,7 @@ Technical Support |  Peer support at  [Groups.io](https://groups.io/g/maxprogram
 
 ## Building
 
-- Checkout this repository.
+- Clone this repository.
 - Point your `JAVA_HOME` environment variable to JDK 21
 - Run `gradle` to compile the Java code
 - Run `npm install` to download and install NodeJS dependencies
@@ -65,7 +65,7 @@ Technical Support |  Peer support at  [Groups.io](https://groups.io/g/maxprogram
 ### Steps for building
 
 ``` bash
-  git clone https://github.com/rmraya/Stingray.git
+  git clone https://github.com/maxprograms-com/Stingray.git
   cd Stingray
   gradle
   npm install
